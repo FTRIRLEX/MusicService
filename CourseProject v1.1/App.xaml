@@ -1,0 +1,56 @@
+﻿<Application x:Class="CourseProject_v1._1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CourseProject_v1._1"
+             xmlns:vm ="clr-namespace:CourseProject_v1._1.ViewModels"
+             xmlns:views ="clr-namespace:CourseProject_v1._1.Views.Windows"
+             StartupUri="Views/Windows/MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+                
+            </ResourceDictionary.MergedDictionaries>
+            <DataTemplate DataType="{x:Type vm:AuthPageViewModel}">
+                <views:AuthPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:RegisterPageViewModel}">
+                <views:RegisterPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:TracksViewModel}">
+                <views:TracksPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:AlbumsPageViewModel}">
+                <views:AlbumsPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:PlaylistsPageViewModel}">
+                <views:PlaylistsPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:EditAlbumPageViewModel}">
+                <views:EditAlbumPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:PlayerViewModel}">
+                <views:PlayerWindow/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:EditPlaylistViewModel}">
+                <views:EditPlaylistPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:LikedTracksViewModel}">
+                <views:LikedTracksPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:OpenAlbumViewModel}">
+                <views:OpenAlbumPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:OpenPlaylistViewModel}">
+                <views:OpenPlaylistPage/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:AdminPagViewModel}">
+                <views:AdminPage/>
+            </DataTemplate>
+            
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

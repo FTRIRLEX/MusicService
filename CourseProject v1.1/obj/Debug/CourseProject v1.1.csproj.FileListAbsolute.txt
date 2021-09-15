@@ -1,0 +1,52 @@
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1.csprojAssemblyReference.cache
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\MainWindow.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\RegisterPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\App.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1_MarkupCompile.cache
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1_MarkupCompile.lref
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\CourseProject v1.1.exe.config
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\CourseProject v1.1.exe
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\CourseProject v1.1.pdb
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\MaterialDesignColors.dll
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\MaterialDesignColors.pdb
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\AuthPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\App.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\AuthPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\MainWindow.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\RegisterPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1.g.resources
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject_v1._1.Properties.Resources.resources
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1.csproj.GenerateResource.cache
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1.csproj.CoreCompileInputs.cache
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1.csproj.CopyComplete
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1.exe
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\CourseProject v1.1.pdb
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\EntityFramework.dll
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\EntityFramework.SqlServer.dll
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\EntityFramework.xml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\bin\Debug\EntityFramework.SqlServer.xml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\PlayerWindow.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\PlayerWindow.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\TracksPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\TracksPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\AlbumsPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\AlbumsPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\PlaylistsPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\PlaylistsPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\EditAlbumPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\EditAlbumPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\EditPlaylistPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\EditPlaylistPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\LikedTracksPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\LikedTracksPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\OpenAlbumPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\OpenAlbumPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\OpenPlaylistPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\OpenPlaylistPage.baml
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\AdminPage.g.cs
+D:\лабы\2 курс\CourseProject OOP\CourseProject v1.1\CourseProject v1.1\obj\Debug\Views\Windows\AdminPage.baml
